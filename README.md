@@ -40,7 +40,7 @@ I progressively alter the scope of the models as I iterate over different option
 ## Repository Structure
 
 ```
-├── data
+├── images
 ├── README.md
 ├── pitch-repo.pdf
 ├── pitch-presentation.pdf
