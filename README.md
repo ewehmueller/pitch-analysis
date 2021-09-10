@@ -29,7 +29,7 @@ I explore this thoroughly in the pitch-classification.ipynb file contained withi
 I progressively alter the scope of the models as I iterate over different options.  Here are some visualization previews of the data I investigated.
 
 ## Corr Heatmap Between Features and Pitch Outcome
-<img src="./images/image1.png" width=90% length=50%>
+<img src="./images/image1.png" width=90% height=50%>
 
 ## Single Player XGB Model Feature Importances
 <img src="./images/image2.png" width=90%>
