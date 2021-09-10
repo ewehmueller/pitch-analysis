@@ -42,7 +42,8 @@ I progressively alter the scope of the models as I iterate over different option
 ```
 ├── data
 ├── README.md
-├── lol_presentation.pdf
-├── lol_notebook.pdf
-└── league-analysis.ipynb
+├── pitch-repo.pdf
+├── pitch-presentation.pdf
+├── pitch-notebook.pdf
+└── pitch-classification.ipynb
 ```
